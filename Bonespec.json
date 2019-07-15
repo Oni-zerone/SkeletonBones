@@ -5,11 +5,11 @@
     "name": "Bones",
     "bones": [
       {
-        "name": "class",
-        "description": "Creates a class",
+        "name": "domainClass",
+        "description": "Create a class",
         "folderPath": "Sources/Domain",
         "createSubfolder": false,
-        "targets" : ["{{ target }}"],
+        "targets" : ["Domain"],
         "files": ["Class/Bone.swift"]
       }
     ]
