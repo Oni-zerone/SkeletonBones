@@ -7,7 +7,7 @@
       {
         "name": "class",
         "description": "Creates a class",
-        "folderPath": "Sources/Class",
+        "folderPath": "Sources/Domain",
         "createSubfolder": false,
         "targets" : ["{{ target }}"],
         "files": ["Class/Bone.swift"]
